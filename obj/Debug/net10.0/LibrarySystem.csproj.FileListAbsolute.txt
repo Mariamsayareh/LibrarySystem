@@ -1,0 +1,14 @@
+/Users/mariamsayareh/Desktop/asp14/LibrarySystem/bin/Debug/net10.0/LibrarySystem
+/Users/mariamsayareh/Desktop/asp14/LibrarySystem/bin/Debug/net10.0/LibrarySystem.deps.json
+/Users/mariamsayareh/Desktop/asp14/LibrarySystem/bin/Debug/net10.0/LibrarySystem.runtimeconfig.json
+/Users/mariamsayareh/Desktop/asp14/LibrarySystem/bin/Debug/net10.0/LibrarySystem.dll
+/Users/mariamsayareh/Desktop/asp14/LibrarySystem/bin/Debug/net10.0/LibrarySystem.pdb
+/Users/mariamsayareh/Desktop/asp14/LibrarySystem/obj/Debug/net10.0/LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamsayareh/Desktop/asp14/LibrarySystem/obj/Debug/net10.0/LibrarySystem.AssemblyInfoInputs.cache
+/Users/mariamsayareh/Desktop/asp14/LibrarySystem/obj/Debug/net10.0/LibrarySystem.AssemblyInfo.cs
+/Users/mariamsayareh/Desktop/asp14/LibrarySystem/obj/Debug/net10.0/LibrarySystem.csproj.CoreCompileInputs.cache
+/Users/mariamsayareh/Desktop/asp14/LibrarySystem/obj/Debug/net10.0/LibrarySystem.dll
+/Users/mariamsayareh/Desktop/asp14/LibrarySystem/obj/Debug/net10.0/refint/LibrarySystem.dll
+/Users/mariamsayareh/Desktop/asp14/LibrarySystem/obj/Debug/net10.0/LibrarySystem.pdb
+/Users/mariamsayareh/Desktop/asp14/LibrarySystem/obj/Debug/net10.0/LibrarySystem.genruntimeconfig.cache
+/Users/mariamsayareh/Desktop/asp14/LibrarySystem/obj/Debug/net10.0/ref/LibrarySystem.dll
